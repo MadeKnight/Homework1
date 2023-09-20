@@ -7,10 +7,6 @@ if (number1 > number2)
     Console.WriteLine("Число " + number1 + " большее");
     Console.Write("Число " + number2 + " меньшее");
 }
-else if (number1 == number2)
-{
-    Console.WriteLine("Число " + number1 + " равно числу " + number2);
-}
 else
 {
     Console.WriteLine("Число " + number2 + " большее");
